@@ -27,7 +27,8 @@
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <br>
 <br>
-<hr>⠀
+<hr>
+
 ### :octocat: Github Statistics
 
 <p align="center">
