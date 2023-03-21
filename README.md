@@ -3,12 +3,13 @@
          height="70"
          width="70" /> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=4000&pause=200&color=051C42&vCenter=true&width=435&height=80&lines=Hey+There!;I+am+Vaibhav.)
          
-- 👷‍♀️ I'm currently a Project Trainee at <a href="https://zoho.com">Zoho</a>
+- 👷‍♀️ I'm currently a Project Trainee at <a href="https://zoho.com"><img align="top" src="https://user-images.githubusercontent.com/82175956/226698483-fcc4fc7a-3f8b-4ed6-b314-9e53c7b4bc37.png" height="25"></a>
+
 - 👯 I’m an Enthusiatic Learner :)
 - 🎨 I’m passionate about Web Development.
-- 🕷 I hunt down bugs.
 - ⚡ I play with console (developer console 😭).
-- 🎬 Ping me with a good movie please.
+- ☕ Currently, Turning coffee into code.
+- 🤐 Testing my code but in production.
 <br>⠀⠀
 ### 💻 Programming
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
