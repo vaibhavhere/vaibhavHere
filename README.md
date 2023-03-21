@@ -4,7 +4,7 @@
          width="45" />, I'm Vaibhav</h1>
          
 - 👷‍♀️ I'm currently a Project Trainee at <a href="https://zoho.com">Zoho</a>
-- 👯 I’m an enthusiatic leaner :)
+- 👯 I’m an Enthusiatic Learner :)
 - 👯 I’m passionate about Web Development.
 - 🕷 I hunt down bugs.
 - ⚡ I play with console (developer console 😭).
