@@ -36,6 +36,7 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavHere&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&langs_count=8&theme=tokyonight&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="vaibhavHere"/><br><br>
 <img src="https://komarev.com/ghpvc/?username=vaibhavHere&label=Profile%20views&color=brightgreen&style=flat" alt="vaibhavHere" /><br>
 <img src="https://user-images.githubusercontent.com/82175956/226424670-4e58b929-0777-4961-8ad5-b67711746261.svg"/>
+![Snake animation](https://github.com/vaibhavHere/vaibhavHere/blob/output/github-contribution-grid-snake.svg)
 </p>
 
     < HAPPY CODING />
