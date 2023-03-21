@@ -1,7 +1,7 @@
-<h1 align="center">Hi There<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<img align="top" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Vaibhav</h1>
+         height="70"
+         width="70" /> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=051C42&vCenter=true&width=435&height=80&lines=Hey+There!;I+am+Vaibhav.)
          
 - 👷‍♀️ I'm currently a Project Trainee at <a href="https://zoho.com">Zoho</a>
 - 👯 I’m an Enthusiatic Learner :)
