@@ -3,7 +3,7 @@
          height="70"
          width="70" /> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=4000&pause=200&color=051C42&vCenter=true&width=435&height=80&lines=Hey+There!;I+am+Vaibhav.)
          
-- 👷‍♀️ I'm currently a Project Trainee at <a href="https://zoho.com"><img align="top" src="https://user-images.githubusercontent.com/82175956/226698483-fcc4fc7a-3f8b-4ed6-b314-9e53c7b4bc37.png" height="30"></a>
+- 👷‍♀️ I'm currently a Project Trainee at <a href="https://zoho.com"><img align="center" src="https://user-images.githubusercontent.com/82175956/226698483-fcc4fc7a-3f8b-4ed6-b314-9e53c7b4bc37.png" height="25"></a>
 - 👯 I’m an Enthusiatic Learner :)
 - 🎨 I’m passionate about Web Development.
 - ⚡ I play with console (developer console 😭).
