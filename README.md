@@ -5,7 +5,7 @@
          
 - 👷‍♀️ I'm currently a Project Trainee at <a href="https://zoho.com">Zoho</a>
 - 👯 I’m an Enthusiatic Learner :)
-- 👯 I’m passionate about Web Development.
+- 🎨 I’m passionate about Web Development.
 - 🕷 I hunt down bugs.
 - ⚡ I play with console (developer console 😭).
 - 🎬 Ping me with a good movie please.
