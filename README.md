@@ -19,7 +19,7 @@
 <br>
 <br>
 ### 📲 Connect with me:
-<a href="https://www.linkedin.com/in/vaibhav-jain--" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vaibhavjains" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://hackerrank.com/vaibhav122345" target="_blank"><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
         <a href="https://instagram.com/_vaibhav._.jain_"><img alt="Instagram"
                 src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
