@@ -4,7 +4,8 @@
          width="70" /> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=3000&pause=800&color=777&vCenter=true&width=280&height=80&lines=Hey+There!;I+am+Vaibhav.)
          
 
-- 👷‍♀️ I'm currently a Project Trainee at⠀<a href="https://zoho.com"><img align="top" width="65" src="https://user-images.githubusercontent.com/82175956/226703671-ebe05a54-e87b-4b9e-b9ab-589603640633.png">
+- 👷‍♀️ I'm currently a SDE1 at Samsung.
+- 👷‍♀️ Ex-MTS at⠀<a href="https://zoho.com"><img align="top" width="65" src="https://user-images.githubusercontent.com/82175956/226703671-ebe05a54-e87b-4b9e-b9ab-589603640633.png">
 - 👯 I’m an Enthusiatic Learner :)
 - 🎨 I’m passionate about Web Development.
 - ⚡ I play with console (developer console 😭).
